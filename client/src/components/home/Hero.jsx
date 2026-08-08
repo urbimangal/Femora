@@ -3,7 +3,7 @@ import HeroIllustration from "../../assets/images/hero-illustration.png";
 
 function Hero() {
   return (
-    <section className="bg-gradient-to-br from-violet-50 via-white to-pink-50">
+    <section id="home" className="bg-gradient-to-br from-violet-50 via-white to-pink-50">
       <div className="mx-auto flex min-h-[calc(100vh-64px)] max-w-7xl flex-col-reverse items-center justify-between gap-14 px-6 py-16 lg:flex-row lg:px-8">
         
         <div className="max-w-2xl text-center lg:text-left">
